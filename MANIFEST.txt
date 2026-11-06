@@ -1,0 +1,21 @@
+Smart Laundry GitHub Package
+
+Core:
+- README.md
+- SECURITY.md
+- .gitignore
+
+Firmware:
+- firmware/hardware/smart_laundry_hardware.ino (sanitized public copy)
+
+Documentation:
+- docs/PINOUT.md
+- docs/THINGSBOARD.md
+- docs/EVIDENCE.md
+- links/PROJECT_LINKS.md
+
+Visual evidence:
+- docs/diagrams/*
+- docs/screenshots/*
+- hardware/photos/system_prototype.jpeg
+- assets/original_uploads/* (all uploaded visual files preserved)
